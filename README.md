@@ -6,3 +6,5 @@ The Project is in the notebook(.ipynb) and the user can open it using jupyter-no
 It is based on the 'fer2013' dataset and the models are trained on it .
 
 The paths in the notebook for the faces-images and the dataset should be changed accordingly in order fot the notebook to run successfully.
+
+Models info and instructions for each cell can be found in the notebook where each part is explained.
